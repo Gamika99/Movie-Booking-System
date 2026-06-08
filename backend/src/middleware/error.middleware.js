@@ -1,4 +1,3 @@
-// backend/src/middleware/error.middleware.js
 const logger = require('../utils/logger');
 const ApiError = require('../utils/ApiError');
 

@@ -1,4 +1,3 @@
-// backend/src/services/auth.service.js
 const crypto = require('crypto');
 const jwt = require('jsonwebtoken');
 const userRepository = require('../repositories/user.repository');

@@ -1,4 +1,3 @@
-// backend/src/controllers/auth.controller.js
 const authService = require('../services/auth.service');
 const ApiResponse = require('../utils/ApiResponse');
 const asyncHandler = require('../utils/asyncHandler');

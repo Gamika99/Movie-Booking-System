@@ -1,4 +1,3 @@
-// backend/src/middleware/auth.middleware.js
 const jwt = require('jsonwebtoken');
 const userRepository = require('../repositories/user.repository');
 const redisClient = require('../config/redis');

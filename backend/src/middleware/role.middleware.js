@@ -1,4 +1,3 @@
-// backend/src/middleware/role.middleware.js
 const ApiError = require('../utils/ApiError');
 
 const authorize = (...roles) => {
